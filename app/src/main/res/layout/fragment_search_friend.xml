@@ -1,0 +1,74 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="400dp"
+    android:clickable="true"
+    android:layout_alignParentBottom="true"
+    android:background="@drawable/card_layout_1"
+    android:elevation="15dp"
+
+    android:alpha="100"
+    android:layout_margin="3dp"
+    tools:context="nox.finzone.Fragments.SearchFriendFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:textColor="@color/cardview_light_background"
+        android:gravity="center_horizontal"
+        android:layout_margin="0dp"
+        android:text="Friends Zone"/>
+
+
+                <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_marginTop="0dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+                         <SearchView
+                                android:id="@+id/friend_search"
+                                android:iconifiedByDefault="false"
+                                android:background="@color/grey"
+                                android:searchIcon="@drawable/search"
+                                android:layout_width="match_parent"
+                                android:layout_marginRight="15dp"
+                                android:layout_marginLeft="15dp"
+                                android:queryBackground="@color/grey"
+                                android:queryHint="Search Friends ...."
+                                android:layout_height="wrap_content"
+                                android:elevation="12dp"
+                                >
+
+                            </SearchView>
+
+
+                    <ListView
+                        android:id="@+id/friends_list"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginRight="15dp"
+                        android:visibility="invisible"></ListView>
+
+                    <ListView
+                            android:layout_marginTop="20dp"
+                            android:layout_marginRight="10dp"
+                            android:layout_marginLeft="10dp"
+                            android:id="@+id/notification_list"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"></ListView>
+                    </LinearLayout>
+
+
+
+
+
+
+
+
+
+</LinearLayout>

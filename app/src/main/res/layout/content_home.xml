@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".HomeActivity"
+    android:id="@+id/home_layout"
+    tools:showIn="@layout/app_bar_home">
+
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/searchView"
+
+        android:id="@+id/searchList"/>
+    <RelativeLayout
+        android:id="@+id/search_rel"
+        android:layout_width="match_parent"
+        android:layout_height="250dp">
+        <fragment
+            android:id="@+id/search_frag"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:name="nox.finzone.Fragments.SearchFriendFragment"/>
+    </RelativeLayout>
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:id="@+id/content_home">
+        <fragment
+            android:id="@+id/home_frag"
+            android:name="nox.finzone.Fragments.HomeFragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:layout="@layout/fragment_home" />
+    </RelativeLayout>
+
+</RelativeLayout>

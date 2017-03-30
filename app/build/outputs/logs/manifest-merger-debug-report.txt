@@ -1,0 +1,355 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:2:1-68:12
+	package
+		ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:4:5-26
+		INJECTED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml
+		INJECTED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml
+		INJECTED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml
+		INJECTED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Apatel9273\.android\build-cache\4ca54cef189bffe58edb1bcbe9a14948a69e16d0\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\Apatel9273\.android\build-cache\99024636e12939514874851ccf7b81657126d4ca\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Apatel9273\.android\build-cache\67d1c3fb9814a3a94b9efa2b2fd5bf571166745e\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:6:22-64
+activity#com.facebook.FacebookActivity
+ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:8:5-11:44
+	android:label
+		ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:11:9-41
+	android:configChanges
+		ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:10:9-92
+	android:name
+		ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:9:9-53
+uses-permission#android.permission.CAMERA
+ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:12:5-64
+	android:name
+		ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:12:22-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Apatel9273\.android\build-cache\4ca54cef189bffe58edb1bcbe9a14948a69e16d0\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\Apatel9273\.android\build-cache\99024636e12939514874851ccf7b81657126d4ca\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Apatel9273\.android\build-cache\67d1c3fb9814a3a94b9efa2b2fd5bf571166745e\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:14:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:15:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:19:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:21:5-71
+	android:name
+		ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:21:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:23:5-72
+	android:name
+		ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:23:22-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:24:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:25:5-80
+	android:name
+		ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:25:22-77
+application
+ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:27:5-66:19
+MERGED from [com.android.support:palette-v7:22.2.0] C:\Users\Apatel9273\.android\build-cache\39a5b67bf15c791f23084d81b409097267decbe5\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\Apatel9273\.android\build-cache\cfdc126650dd956d5e203ac1d957c26bb2d9a3c4\output\AndroidManifest.xml:28:5-48:19
+MERGED from [com.android.support:cardview-v7:25.0.0] C:\Users\Apatel9273\.android\build-cache\8af64a1f5ec88fedf963f816440c57c3df62a856\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:customtabs:25.0.0] C:\Users\Apatel9273\.android\build-cache\9b2eec8529931e9f0c9fa1933adfc2d1e0988a0a\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\Apatel9273\.android\build-cache\85766f0af16df00290b7669ae9a99b0f1f5efb87\output\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\Apatel9273\.android\build-cache\624182008c8e263bbc4358184caf32e78e4eca30\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.android.support:design:24.2.1] C:\Users\Apatel9273\.android\build-cache\bb67542420007a563280cc4db2ed87537c449f90\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Apatel9273\.android\build-cache\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\Apatel9273\.android\build-cache\6e88ec46cb2f1db6c2f2c022ee7b7706e4c35dab\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\Apatel9273\.android\build-cache\7beeeb5746cdac8a55d6e31277fc6b78c2a68587\output\AndroidManifest.xml:23:5-20
+MERGED from [com.balysv:material-ripple:1.0.2] C:\Users\Apatel9273\.android\build-cache\a2b64b4dbfafffb8674ac382d9ab63d31e55d4f0\output\AndroidManifest.xml:12:5-20
+MERGED from [com.google.firebase:firebase-core:10.2.0] C:\Users\Apatel9273\.android\build-cache\ba80747162a3afb5c4d3f6334f113595c607f809\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Apatel9273\.android\build-cache\4ca54cef189bffe58edb1bcbe9a14948a69e16d0\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\Apatel9273\.android\build-cache\99024636e12939514874851ccf7b81657126d4ca\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Apatel9273\.android\build-cache\67d1c3fb9814a3a94b9efa2b2fd5bf571166745e\output\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.2.0] C:\Users\Apatel9273\.android\build-cache\2fe75912da7f2627f88e6ca744c2085c36b05a62\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] C:\Users\Apatel9273\.android\build-cache\4da53bbe7ea1fb9e88fba7f1e36de2da05a6f454\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\Apatel9273\.android\build-cache\f54a536fbe58145789b52ef3cb4432657bd4baa2\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\Apatel9273\.android\build-cache\d747aac6c820a1aaef3af032340743288288c789\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\Apatel9273\.android\build-cache\38985cba688612176005d1842cbb7dc0721c6475\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\Apatel9273\.android\build-cache\e7e1a38935a6d1ae466565cae3b1a9ddd5e07ebe\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\Apatel9273\.android\build-cache\0b41192fca68f9136f96388cef9db7ed99114664\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\Apatel9273\.android\build-cache\3317ce1c32ad131b27424137defea7e443d93dfe\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\Apatel9273\.android\build-cache\36a3a262b9474c4854efd34c046f7c5bb2ace7fc\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:30:9-41
+	android:supportsRtl
+		ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:31:9-35
+	android:allowBackup
+		ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:28:9-35
+	android:icon
+		ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:29:9-43
+	android:theme
+		ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:32:9-40
+	tools:replace
+		ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:33:9-44
+activity#nox.finzone.MainActivity
+ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:34:9-38:20
+	android:theme
+		ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:36:13-69
+	android:name
+		ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:35:13-41
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:40:9-42:55
+	android:value
+		ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:42:13-52
+	android:name
+		ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:41:13-58
+activity#nox.finzone.HomeActivity
+ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:44:9-49:24
+	android:label
+		ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:46:13-45
+	android:theme
+		ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:47:13-56
+	android:name
+		ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:45:13-41
+activity#nox.finzone.StockDetailActivity
+ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:50:9-57
+	android:name
+		ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:50:19-54
+activity#nox.finzone.RegisterActivity
+ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:51:9-54:71
+	android:label
+		ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:53:13-36
+	android:theme
+		ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:54:13-69
+	android:name
+		ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:52:13-45
+activity#nox.finzone.ChatActivity
+ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:55:9-50
+	android:name
+		ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:55:19-47
+activity#nox.finzone.FriendProfileActivity
+ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:56:9-116
+	android:theme
+		ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:56:58-114
+	android:name
+		ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:56:19-56
+activity#nox.finzone.SignInActivity
+ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:57:9-65:20
+	android:theme
+		ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:58:19-75
+	android:name
+		ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:57:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:59:13-63:29
+action#android.intent.action.MAIN
+ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:60:17-69
+	android:name
+		ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:60:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:62:17-77
+	android:name
+		ADDED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml:62:27-74
+uses-sdk
+INJECTED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:palette-v7:22.2.0] C:\Users\Apatel9273\.android\build-cache\39a5b67bf15c791f23084d81b409097267decbe5\output\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\Apatel9273\.android\build-cache\cfdc126650dd956d5e203ac1d957c26bb2d9a3c4\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:cardview-v7:25.0.0] C:\Users\Apatel9273\.android\build-cache\8af64a1f5ec88fedf963f816440c57c3df62a856\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:customtabs:25.0.0] C:\Users\Apatel9273\.android\build-cache\9b2eec8529931e9f0c9fa1933adfc2d1e0988a0a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\Apatel9273\.android\build-cache\85766f0af16df00290b7669ae9a99b0f1f5efb87\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.0] C:\Users\Apatel9273\.android\build-cache\1c0aeb964c448c5834cf0327c34de80722b191ba\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\Apatel9273\.android\build-cache\624182008c8e263bbc4358184caf32e78e4eca30\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:design:24.2.1] C:\Users\Apatel9273\.android\build-cache\bb67542420007a563280cc4db2ed87537c449f90\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Apatel9273\.android\build-cache\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\Apatel9273\.android\build-cache\6e88ec46cb2f1db6c2f2c022ee7b7706e4c35dab\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\Apatel9273\.android\build-cache\7beeeb5746cdac8a55d6e31277fc6b78c2a68587\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\Apatel9273\.android\build-cache\011810a6d172235dfe9d3eeb3f10c60f909c75b5\output\AndroidManifest.xml:20:5-43
+MERGED from [com.balysv:material-ripple:1.0.2] C:\Users\Apatel9273\.android\build-cache\a2b64b4dbfafffb8674ac382d9ab63d31e55d4f0\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.firebase:firebase-core:10.2.0] C:\Users\Apatel9273\.android\build-cache\ba80747162a3afb5c4d3f6334f113595c607f809\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Apatel9273\.android\build-cache\4ca54cef189bffe58edb1bcbe9a14948a69e16d0\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\Apatel9273\.android\build-cache\99024636e12939514874851ccf7b81657126d4ca\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Apatel9273\.android\build-cache\67d1c3fb9814a3a94b9efa2b2fd5bf571166745e\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.0] C:\Users\Apatel9273\.android\build-cache\2fe75912da7f2627f88e6ca744c2085c36b05a62\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] C:\Users\Apatel9273\.android\build-cache\4da53bbe7ea1fb9e88fba7f1e36de2da05a6f454\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\Apatel9273\.android\build-cache\f54a536fbe58145789b52ef3cb4432657bd4baa2\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\Apatel9273\.android\build-cache\d747aac6c820a1aaef3af032340743288288c789\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\Apatel9273\.android\build-cache\38985cba688612176005d1842cbb7dc0721c6475\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\Apatel9273\.android\build-cache\e7e1a38935a6d1ae466565cae3b1a9ddd5e07ebe\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\Apatel9273\.android\build-cache\0b41192fca68f9136f96388cef9db7ed99114664\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\Apatel9273\.android\build-cache\3317ce1c32ad131b27424137defea7e443d93dfe\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\Apatel9273\.android\build-cache\36a3a262b9474c4854efd34c046f7c5bb2ace7fc\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Apatel9273\.android\build-cache\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml
+		INJECTED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml
+		INJECTED from G:\project\FinZone-master\app\src\main\AndroidManifest.xml
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\Apatel9273\.android\build-cache\cfdc126650dd956d5e203ac1d957c26bb2d9a3c4\output\AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\Apatel9273\.android\build-cache\cfdc126650dd956d5e203ac1d957c26bb2d9a3c4\output\AndroidManifest.xml:33:19-68
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\Apatel9273\.android\build-cache\cfdc126650dd956d5e203ac1d957c26bb2d9a3c4\output\AndroidManifest.xml:44:9-47:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\Apatel9273\.android\build-cache\cfdc126650dd956d5e203ac1d957c26bb2d9a3c4\output\AndroidManifest.xml:46:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\Apatel9273\.android\build-cache\cfdc126650dd956d5e203ac1d957c26bb2d9a3c4\output\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.20.0] C:\Users\Apatel9273\.android\build-cache\cfdc126650dd956d5e203ac1d957c26bb2d9a3c4\output\AndroidManifest.xml:45:13-70
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\Apatel9273\.android\build-cache\85766f0af16df00290b7669ae9a99b0f1f5efb87\output\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\Apatel9273\.android\build-cache\85766f0af16df00290b7669ae9a99b0f1f5efb87\output\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\Apatel9273\.android\build-cache\85766f0af16df00290b7669ae9a99b0f1f5efb87\output\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\Apatel9273\.android\build-cache\85766f0af16df00290b7669ae9a99b0f1f5efb87\output\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\Apatel9273\.android\build-cache\85766f0af16df00290b7669ae9a99b0f1f5efb87\output\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\Apatel9273\.android\build-cache\85766f0af16df00290b7669ae9a99b0f1f5efb87\output\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\Apatel9273\.android\build-cache\85766f0af16df00290b7669ae9a99b0f1f5efb87\output\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\Apatel9273\.android\build-cache\85766f0af16df00290b7669ae9a99b0f1f5efb87\output\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\Apatel9273\.android\build-cache\85766f0af16df00290b7669ae9a99b0f1f5efb87\output\AndroidManifest.xml:24:18-63
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\Apatel9273\.android\build-cache\624182008c8e263bbc4358184caf32e78e4eca30\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\Apatel9273\.android\build-cache\624182008c8e263bbc4358184caf32e78e4eca30\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\Apatel9273\.android\build-cache\624182008c8e263bbc4358184caf32e78e4eca30\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\Apatel9273\.android\build-cache\624182008c8e263bbc4358184caf32e78e4eca30\output\AndroidManifest.xml:19:19-85
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Apatel9273\.android\build-cache\4ca54cef189bffe58edb1bcbe9a14948a69e16d0\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\Apatel9273\.android\build-cache\99024636e12939514874851ccf7b81657126d4ca\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Apatel9273\.android\build-cache\67d1c3fb9814a3a94b9efa2b2fd5bf571166745e\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Apatel9273\.android\build-cache\4ca54cef189bffe58edb1bcbe9a14948a69e16d0\output\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Apatel9273\.android\build-cache\4ca54cef189bffe58edb1bcbe9a14948a69e16d0\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\Apatel9273\.android\build-cache\99024636e12939514874851ccf7b81657126d4ca\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Apatel9273\.android\build-cache\4ca54cef189bffe58edb1bcbe9a14948a69e16d0\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Apatel9273\.android\build-cache\4ca54cef189bffe58edb1bcbe9a14948a69e16d0\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Apatel9273\.android\build-cache\4ca54cef189bffe58edb1bcbe9a14948a69e16d0\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Apatel9273\.android\build-cache\4ca54cef189bffe58edb1bcbe9a14948a69e16d0\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Apatel9273\.android\build-cache\4ca54cef189bffe58edb1bcbe9a14948a69e16d0\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Apatel9273\.android\build-cache\4ca54cef189bffe58edb1bcbe9a14948a69e16d0\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Apatel9273\.android\build-cache\4ca54cef189bffe58edb1bcbe9a14948a69e16d0\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Apatel9273\.android\build-cache\4ca54cef189bffe58edb1bcbe9a14948a69e16d0\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Apatel9273\.android\build-cache\4ca54cef189bffe58edb1bcbe9a14948a69e16d0\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Apatel9273\.android\build-cache\4ca54cef189bffe58edb1bcbe9a14948a69e16d0\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Apatel9273\.android\build-cache\4ca54cef189bffe58edb1bcbe9a14948a69e16d0\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\Apatel9273\.android\build-cache\99024636e12939514874851ccf7b81657126d4ca\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Apatel9273\.android\build-cache\4ca54cef189bffe58edb1bcbe9a14948a69e16d0\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Apatel9273\.android\build-cache\4ca54cef189bffe58edb1bcbe9a14948a69e16d0\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Apatel9273\.android\build-cache\4ca54cef189bffe58edb1bcbe9a14948a69e16d0\output\AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Apatel9273\.android\build-cache\67d1c3fb9814a3a94b9efa2b2fd5bf571166745e\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Apatel9273\.android\build-cache\67d1c3fb9814a3a94b9efa2b2fd5bf571166745e\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Apatel9273\.android\build-cache\67d1c3fb9814a3a94b9efa2b2fd5bf571166745e\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Apatel9273\.android\build-cache\67d1c3fb9814a3a94b9efa2b2fd5bf571166745e\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Apatel9273\.android\build-cache\67d1c3fb9814a3a94b9efa2b2fd5bf571166745e\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Apatel9273\.android\build-cache\67d1c3fb9814a3a94b9efa2b2fd5bf571166745e\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Apatel9273\.android\build-cache\67d1c3fb9814a3a94b9efa2b2fd5bf571166745e\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Apatel9273\.android\build-cache\67d1c3fb9814a3a94b9efa2b2fd5bf571166745e\output\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Apatel9273\.android\build-cache\67d1c3fb9814a3a94b9efa2b2fd5bf571166745e\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Apatel9273\.android\build-cache\67d1c3fb9814a3a94b9efa2b2fd5bf571166745e\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Apatel9273\.android\build-cache\67d1c3fb9814a3a94b9efa2b2fd5bf571166745e\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Apatel9273\.android\build-cache\67d1c3fb9814a3a94b9efa2b2fd5bf571166745e\output\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Apatel9273\.android\build-cache\67d1c3fb9814a3a94b9efa2b2fd5bf571166745e\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Apatel9273\.android\build-cache\67d1c3fb9814a3a94b9efa2b2fd5bf571166745e\output\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Apatel9273\.android\build-cache\67d1c3fb9814a3a94b9efa2b2fd5bf571166745e\output\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Apatel9273\.android\build-cache\67d1c3fb9814a3a94b9efa2b2fd5bf571166745e\output\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Apatel9273\.android\build-cache\67d1c3fb9814a3a94b9efa2b2fd5bf571166745e\output\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Apatel9273\.android\build-cache\67d1c3fb9814a3a94b9efa2b2fd5bf571166745e\output\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Apatel9273\.android\build-cache\67d1c3fb9814a3a94b9efa2b2fd5bf571166745e\output\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Apatel9273\.android\build-cache\67d1c3fb9814a3a94b9efa2b2fd5bf571166745e\output\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Apatel9273\.android\build-cache\67d1c3fb9814a3a94b9efa2b2fd5bf571166745e\output\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Apatel9273\.android\build-cache\67d1c3fb9814a3a94b9efa2b2fd5bf571166745e\output\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Apatel9273\.android\build-cache\67d1c3fb9814a3a94b9efa2b2fd5bf571166745e\output\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Apatel9273\.android\build-cache\67d1c3fb9814a3a94b9efa2b2fd5bf571166745e\output\AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Apatel9273\.android\build-cache\67d1c3fb9814a3a94b9efa2b2fd5bf571166745e\output\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Apatel9273\.android\build-cache\67d1c3fb9814a3a94b9efa2b2fd5bf571166745e\output\AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Apatel9273\.android\build-cache\67d1c3fb9814a3a94b9efa2b2fd5bf571166745e\output\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Apatel9273\.android\build-cache\67d1c3fb9814a3a94b9efa2b2fd5bf571166745e\output\AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.2.0] C:\Users\Apatel9273\.android\build-cache\2fe75912da7f2627f88e6ca744c2085c36b05a62\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.2.0] C:\Users\Apatel9273\.android\build-cache\2fe75912da7f2627f88e6ca744c2085c36b05a62\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.2.0] C:\Users\Apatel9273\.android\build-cache\2fe75912da7f2627f88e6ca744c2085c36b05a62\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.2.0] C:\Users\Apatel9273\.android\build-cache\2fe75912da7f2627f88e6ca744c2085c36b05a62\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.2.0] C:\Users\Apatel9273\.android\build-cache\2fe75912da7f2627f88e6ca744c2085c36b05a62\output\AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\Apatel9273\.android\build-cache\f54a536fbe58145789b52ef3cb4432657bd4baa2\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\Apatel9273\.android\build-cache\f54a536fbe58145789b52ef3cb4432657bd4baa2\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\Apatel9273\.android\build-cache\f54a536fbe58145789b52ef3cb4432657bd4baa2\output\AndroidManifest.xml:20:20-65

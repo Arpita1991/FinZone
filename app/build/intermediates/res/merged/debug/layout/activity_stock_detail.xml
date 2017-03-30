@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/com_facebook_button_background_color_focused"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="nox.finzone.StockDetailActivity">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Large Text"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:id="@+id/companyName" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textStyle="bold"
+                android:text="Price"
+                android:id="@+id/Price" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="Change"
+                android:textStyle="bold"
+                android:layout_marginStart="20dp"
+                android:id="@+id/Change" />
+            <ImageView
+                android:id="@+id/changeIcon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:id="@+id/chartView"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+            <Button
+                android:text="Buy"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/colorAccent"
+                android:textColor="@color/com_facebook_button_background_color_focused"
+                android:textStyle="bold"
+                android:id="@+id/buy"
+                android:layout_alignParentTop="true"
+                android:layout_toStartOf="@+id/sell"
+                android:layout_marginEnd="25dp"
+                android:layout_marginTop="13dp" />
+
+            <Button
+                android:text="Sell short"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/colorAccent"
+                android:textColor="@color/com_facebook_button_background_color_focused"
+                android:textStyle="bold"
+                android:id="@+id/sell"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentEnd="true"
+                android:layout_marginEnd="82dp" />
+
+        </RelativeLayout>
+
+
+        <TableLayout
+            android:id="@+id/table_layout"
+            android:layout_width="match_parent"
+            android:layout_marginTop="20dp"
+            android:layout_height="wrap_content">
+            <TableRow
+                android:id="@+id/row1">
+                <TextView
+                    android:layout_column="1"
+                    android:textSize="20dp"
+                    android:text="Day's Low"/>
+                <TextView
+                    android:id="@+id/day_low"
+                    android:textSize="20dp"
+                    android:layout_marginStart="10dp"
+                    android:text="Data"/>
+            </TableRow>
+            <TableRow android:id="@+id/row2">
+                <TextView
+                    android:layout_column="1"
+                    android:textSize="20dp"
+                    android:text="Day's High"/>
+                <TextView
+                    android:layout_marginStart="10dp"
+                    android:textSize="20dp"
+                    android:id="@+id/day_high"
+                    android:text="Data"/>
+            </TableRow>
+            <TableRow android:id="@+id/row3">
+                <TextView android:layout_column="1"
+                    android:textSize="20dp"
+                    android:text="Year's low"/>
+                <TextView
+                    android:id="@+id/year_low"
+                    android:textSize="20dp"
+                    android:layout_marginStart="10dp"
+                    android:text="Data"/>
+            </TableRow>
+            <TableRow android:id="@+id/row4">
+                <TextView android:layout_column="1"
+                    android:textSize="20dp"
+                    android:text="Year's high"/>
+                <TextView
+                    android:id="@+id/year_high"
+                    android:textSize="20dp"
+                    android:layout_marginStart="10dp"
+                    android:text="Data"/>
+            </TableRow>
+            <TableRow android:id="@+id/row5">
+                <TextView android:layout_column="1"
+                    android:textSize="20dp"
+                    android:text="Market Captilization"/>
+                <TextView
+                    android:id="@+id/mark_cap"
+                    android:textSize="20dp"
+                    android:layout_marginStart="10dp"
+                    android:text="Data"/>
+            </TableRow>
+            <TableRow android:id="@+id/row6">
+                <TextView android:layout_column="1"
+                    android:textSize="20dp"
+                    android:text="Volume"/>
+                <TextView
+                    android:id="@+id/volume"
+                    android:textSize="20dp"
+                    android:layout_marginStart="10dp"
+                    android:text="Data"/>
+            </TableRow>
+            <TableRow android:id="@+id/row7">
+                <TextView android:layout_column="1"
+                    android:textSize="20dp"
+                    android:text="Day's range"/>
+                <TextView
+                    android:id="@+id/day_range"
+                    android:textSize="20dp"
+                    android:layout_marginStart="10dp"
+                    android:text="Data"/>
+            </TableRow>
+            <TableRow android:id="@+id/row8">
+                <TextView android:layout_column="1"
+                    android:textSize="20dp"
+                    android:text="Average daily volume"/>
+                <TextView
+                    android:id="@+id/avg_daily_vol"
+                    android:textSize="20dp"
+                    android:layout_marginStart="10dp"
+                    android:text="Data"/>
+            </TableRow>
+        </TableLayout>
+
+    </LinearLayout>
+</RelativeLayout>
+</ScrollView>

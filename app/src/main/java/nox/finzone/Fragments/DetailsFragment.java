@@ -1,0 +1,206 @@
+package nox.finzone.Fragments;
+
+import android.content.Context;
+import android.net.Uri;
+import android.os.Bundle;
+import android.support.v4.app.Fragment;
+import android.support.v7.widget.LinearLayoutManager;
+import android.support.v7.widget.RecyclerView;
+import android.support.v7.widget.Toolbar;
+import android.util.Log;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+
+import com.github.mikephil.charting.charts.BarChart;
+import com.github.mikephil.charting.charts.LineChart;
+import com.github.mikephil.charting.charts.RadarChart;
+import com.github.mikephil.charting.components.Description;
+import com.github.mikephil.charting.data.BarData;
+import com.github.mikephil.charting.data.BarDataSet;
+import com.github.mikephil.charting.data.LineData;
+import com.github.mikephil.charting.data.LineDataSet;
+import com.github.mikephil.charting.data.RadarData;
+import com.github.mikephil.charting.data.RadarDataSet;
+import com.github.mikephil.charting.interfaces.datasets.ILineDataSet;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+
+import adapters.StockAdapter;
+import adapters.StockHistoryAdapter;
+import nox.finzone.Market;
+import nox.finzone.R;
+import nox.finzone.StockDetailActivity;
+import nox.finzone.Utilites;
+
+/**
+ * A simple {@link Fragment} subclass.
+ * Activities that contain this fragment must implement the
+ * {@link DetailsFragment.OnFragmentInteractionListener} interface
+ * to handle interaction events.
+ * Use the {@link DetailsFragment#newInstance} factory method to
+ * create an instance of this fragment.
+ */
+public class DetailsFragment extends Fragment {
+    // TODO: Rename parameter arguments, choose names that match
+    // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
+    private static final String ARG_PARAM1 = "param1";
+    private static final String ARG_PARAM2 = "param2";
+    LineChart lineChart;
+    // TODO: Rename and change types of parameters
+    private String mParam1;
+    private String mParam2;
+    private String domain;
+    private OnFragmentInteractionListener mListener;
+
+    public DetailsFragment() {
+        // Required empty public constructor
+    }
+
+    /**
+     * Use this factory method to create a new instance of
+     * this fragment using the provided parameters.
+     *
+     * @param param1 Parameter 1.
+     * @param param2 Parameter 2.
+     * @return A new instance of fragment DetailsFragment.
+     */
+    // TODO: Rename and change types and number of parameters
+    public static DetailsFragment newInstance(String param1, String param2) {
+        DetailsFragment fragment = new DetailsFragment();
+        Bundle args = new Bundle();
+
+        args.putString(ARG_PARAM1, param1);
+        args.putString(ARG_PARAM2, param2);
+        fragment.setArguments(args);
+        return fragment;
+    }
+
+    @Override
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        if (getArguments() != null) {
+            mParam1 = getArguments().getString(ARG_PARAM1);
+            mParam2 = getArguments().getString(ARG_PARAM2);
+            domain=getArguments().getString("Domain");
+        }
+    }
+
+    @Override
+    public View onCreateView(LayoutInflater inflater, ViewGroup container,
+                             Bundle savedInstanceState) {
+        // Inflate the layout for this fragment
+        View view= inflater.inflate(R.layout.fragment_details, container, false);
+        Toolbar toolbar= (Toolbar) view.findViewById(R.id.toolbar);
+
+        final RecyclerView recyclerView= (RecyclerView) view.findViewById(R.id.portfolio_list);
+        lineChart= (LineChart) view.findViewById(R.id.linechart);
+
+
+        Log.i("indexss",domain);
+        Market market=new Market();
+        final List<Market.StockHistory> stockHistories=market.getStockHistory(new Utilites().sharePref(getContext()),domain.toLowerCase());
+        final StockHistoryAdapter stockHistoryAdapter=new StockHistoryAdapter(stockHistories);
+
+       // market.getPortfolioData(new Utilites().sharePref(getContext()));
+
+       /* BarChart barChart= (BarChart) view.findViewById(R.id.bar_chart);
+        BarDataSet barDataSet=new BarDataSet(barEntries,"No of Trades");
+        BarData barData=new BarData(barDataSet);
+        barChart.setData(barData);
+
+        RadarChart radarChart=(RadarChart)view.findViewById(R.id.linechart);
+        RadarDataSet radarDataSet=new RadarDataSet();
+        RadarData radarData=new RadarData(radarDataSet);*/
+
+
+
+        recyclerView.setLayoutManager(new LinearLayoutManager(getContext(),LinearLayoutManager.VERTICAL,false));
+        recyclerView.setAdapter(stockHistoryAdapter);
+        stockHistoryAdapter.setOnItemClickListener(new StockHistoryAdapter.OnItemClickListener() {
+            @Override
+            public void onItemClick(String symbol, String days) {
+                drawLineChart(symbol,days);
+            }
+        });
+
+
+
+        return view;
+    }
+
+    // TODO: Rename method, update argument and hook method into UI event
+    public void onButtonPressed(Uri uri) {
+        if (mListener != null) {
+            mListener.onFragmentInteraction(uri);
+        }
+    }
+    public void drawLineChart(String symbol,String days){
+        Market market=new Market(symbol);
+        LineDataSet lineDataSet=new LineDataSet(market.getChartData(days+"d"),"linedataset");
+
+        lineDataSet.setDrawCircleHole(false);
+        lineDataSet.setDrawCircles(false);
+        lineDataSet.setDrawVerticalHighlightIndicator(false);
+        lineDataSet.setDrawHorizontalHighlightIndicator(false);
+        lineDataSet.setDrawValues(false);
+
+        LineData lineData=new LineData(lineDataSet);
+
+        lineChart.setData(lineData);
+        lineDesign();
+        lineChart.invalidate();
+    }
+    @Override
+    public void onAttach(Context context) {
+        super.onAttach(context);
+        if (context instanceof OnFragmentInteractionListener) {
+            mListener = (OnFragmentInteractionListener) context;
+        } else {
+            throw new RuntimeException(context.toString()
+                    + " must implement OnFragmentInteractionListener");
+        }
+    }
+    public void lineDesign(){
+        lineChart.getAxisLeft().setDrawGridLines(false);
+        lineChart.getXAxis().setDrawGridLines(false);
+        lineChart.getAxisRight().setDrawGridLines(false);
+        lineChart.animateX(2000);
+        Description description=new Description();
+        description.setText("");
+        lineChart.setDescription(description);
+        lineChart.getXAxis().setDrawAxisLine(false);
+        lineChart.getAxisRight().setDrawAxisLine(true);
+        lineChart.getAxisLeft().setDrawAxisLine(true);
+        lineChart.getLegend().setEnabled(false);
+        lineChart.getAxisLeft().setDrawLabels(false);
+        lineChart.getAxisRight().setDrawLabels(false);
+        lineChart.setDrawGridBackground(false);
+        lineChart.setScaleX(1f);
+        lineChart.setScaleY(1f);
+        lineChart.setDrawBorders(false);
+        lineChart.getXAxis().setDrawLabels(false);
+    }
+    @Override
+    public void onDetach() {
+        super.onDetach();
+        mListener = null;
+    }
+
+    /**
+     * This interface must be implemented by activities that contain this
+     * fragment to allow an interaction in this fragment to be communicated
+     * to the activity and potentially other fragments contained in that
+     * activity.
+     * <p>
+     * See the Android Training lesson <a href=
+     * "http://developer.android.com/training/basics/fragments/communicating.html"
+     * >Communicating with Other Fragments</a> for more information.
+     */
+    public interface OnFragmentInteractionListener {
+        // TODO: Update argument type and name
+        void onFragmentInteraction(Uri uri);
+    }
+}

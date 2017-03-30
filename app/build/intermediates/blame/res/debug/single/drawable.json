@@ -1,0 +1,722 @@
+[
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d44f82a86cb2a18bf93503a184ecdd3dfce679c3\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\624182008c8e263bbc4358184caf32e78e4eca30\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_background.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\cfdc126650dd956d5e203ac1d957c26bb2d9a3c4\\output\\res\\drawable\\com_facebook_auth_dialog_background.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image_view_shape.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\drawable\\image_view_shape.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\624182008c8e263bbc4358184caf32e78e4eca30\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_layout_5.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\drawable\\design_layout_5.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\624182008c8e263bbc4358184caf32e78e4eca30\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chip_design.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\drawable\\chip_design.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\624182008c8e263bbc4358184caf32e78e4eca30\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_design_4.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\drawable\\button_design_4.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\20ad4e811985b78500b185a1743b5dedf458e2ec\\output\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_cancel_background.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\cfdc126650dd956d5e203ac1d957c26bb2d9a3c4\\output\\res\\drawable\\com_facebook_auth_dialog_cancel_background.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d44f82a86cb2a18bf93503a184ecdd3dfce679c3\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\trans_layout.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\drawable\\trans_layout.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_design_4.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\drawable\\button_design_4.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_header_background.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\cfdc126650dd956d5e203ac1d957c26bb2d9a3c4\\output\\res\\drawable\\com_facebook_auth_dialog_header_background.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_cancel_background.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\20ad4e811985b78500b185a1743b5dedf458e2ec\\output\\res\\drawable\\com_facebook_auth_dialog_cancel_background.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\624182008c8e263bbc4358184caf32e78e4eca30\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_layout_6.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\drawable\\design_layout_6.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image_view_shape.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\drawable\\image_view_shape.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_design.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\drawable\\edittext_design.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_stock_history.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\drawable\\design_stock_history.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\20ad4e811985b78500b185a1743b5dedf458e2ec\\output\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\624182008c8e263bbc4358184caf32e78e4eca30\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d44f82a86cb2a18bf93503a184ecdd3dfce679c3\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_icon.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\cfdc126650dd956d5e203ac1d957c26bb2d9a3c4\\output\\res\\drawable\\com_facebook_button_icon.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_layout_5.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\drawable\\design_layout_5.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_background.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\20ad4e811985b78500b185a1743b5dedf458e2ec\\output\\res\\drawable\\com_facebook_button_login_background.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d44f82a86cb2a18bf93503a184ecdd3dfce679c3\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_layout_6.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\drawable\\design_layout_6.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\cfdc126650dd956d5e203ac1d957c26bb2d9a3c4\\output\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d44f82a86cb2a18bf93503a184ecdd3dfce679c3\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d44f82a86cb2a18bf93503a184ecdd3dfce679c3\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_favicon_blue.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\cfdc126650dd956d5e203ac1d957c26bb2d9a3c4\\output\\res\\drawable\\com_facebook_favicon_blue.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_send_button_icon.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\cfdc126650dd956d5e203ac1d957c26bb2d9a3c4\\output\\res\\drawable\\com_facebook_send_button_icon.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\624182008c8e263bbc4358184caf32e78e4eca30\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\action_bar_title.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\drawable\\action_bar_title.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_layout_1.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\drawable\\design_layout_1.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_layout_4.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\drawable\\design_layout_4.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\action_bar_title.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\drawable\\action_bar_title.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_layout_7.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\drawable\\design_layout_7.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\20ad4e811985b78500b185a1743b5dedf458e2ec\\output\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_background.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\cfdc126650dd956d5e203ac1d957c26bb2d9a3c4\\output\\res\\drawable\\com_facebook_button_login_background.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\cfdc126650dd956d5e203ac1d957c26bb2d9a3c4\\output\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\bb67542420007a563280cc4db2ed87537c449f90\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\linear_design_1.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\drawable\\linear_design_1.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_layout_1.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\drawable\\custom_layout_1.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\bb67542420007a563280cc4db2ed87537c449f90\\output\\res\\drawable\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\624182008c8e263bbc4358184caf32e78e4eca30\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d44f82a86cb2a18bf93503a184ecdd3dfce679c3\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_header_background.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\20ad4e811985b78500b185a1743b5dedf458e2ec\\output\\res\\drawable\\com_facebook_auth_dialog_header_background.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\bb67542420007a563280cc4db2ed87537c449f90\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\cfdc126650dd956d5e203ac1d957c26bb2d9a3c4\\output\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\20ad4e811985b78500b185a1743b5dedf458e2ec\\output\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_send_button_icon.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\20ad4e811985b78500b185a1743b5dedf458e2ec\\output\\res\\drawable\\com_facebook_send_button_icon.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\bb67542420007a563280cc4db2ed87537c449f90\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_background.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\20ad4e811985b78500b185a1743b5dedf458e2ec\\output\\res\\drawable\\com_facebook_auth_dialog_background.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_design.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\drawable\\edittext_design.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_favicon_blue.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\20ad4e811985b78500b185a1743b5dedf458e2ec\\output\\res\\drawable\\com_facebook_favicon_blue.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image3373.png",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\drawable\\image3373.png"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\e194de8d124effb4f5f0af12c342415582f430a3\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_design.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\drawable\\button_design.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\624182008c8e263bbc4358184caf32e78e4eca30\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d44f82a86cb2a18bf93503a184ecdd3dfce679c3\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_stock_history.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\drawable\\design_stock_history.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\20ad4e811985b78500b185a1743b5dedf458e2ec\\output\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\20ad4e811985b78500b185a1743b5dedf458e2ec\\output\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\e194de8d124effb4f5f0af12c342415582f430a3\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\624182008c8e263bbc4358184caf32e78e4eca30\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_back_design.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\drawable\\main_back_design.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d44f82a86cb2a18bf93503a184ecdd3dfce679c3\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\624182008c8e263bbc4358184caf32e78e4eca30\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\cfdc126650dd956d5e203ac1d957c26bb2d9a3c4\\output\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\cfdc126650dd956d5e203ac1d957c26bb2d9a3c4\\output\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_icon.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\20ad4e811985b78500b185a1743b5dedf458e2ec\\output\\res\\drawable\\com_facebook_button_icon.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image3373.png",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\drawable\\image3373.png"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_logo.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\cfdc126650dd956d5e203ac1d957c26bb2d9a3c4\\output\\res\\drawable\\com_facebook_button_login_logo.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d44f82a86cb2a18bf93503a184ecdd3dfce679c3\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_logo.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\20ad4e811985b78500b185a1743b5dedf458e2ec\\output\\res\\drawable\\com_facebook_button_login_logo.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\e194de8d124effb4f5f0af12c342415582f430a3\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\624182008c8e263bbc4358184caf32e78e4eca30\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\trans_layout.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\drawable\\trans_layout.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d44f82a86cb2a18bf93503a184ecdd3dfce679c3\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\624182008c8e263bbc4358184caf32e78e4eca30\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\624182008c8e263bbc4358184caf32e78e4eca30\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\e194de8d124effb4f5f0af12c342415582f430a3\\output\\res\\drawable\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_layout_1.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\drawable\\design_layout_1.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\cfdc126650dd956d5e203ac1d957c26bb2d9a3c4\\output\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\linear_design_1.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\drawable\\linear_design_1.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\cfdc126650dd956d5e203ac1d957c26bb2d9a3c4\\output\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_layout_7.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\drawable\\design_layout_7.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\cfdc126650dd956d5e203ac1d957c26bb2d9a3c4\\output\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d44f82a86cb2a18bf93503a184ecdd3dfce679c3\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d44f82a86cb2a18bf93503a184ecdd3dfce679c3\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_layout_1.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\drawable\\custom_layout_1.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_back_design.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\drawable\\main_back_design.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\20ad4e811985b78500b185a1743b5dedf458e2ec\\output\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_design.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\drawable\\button_design.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d44f82a86cb2a18bf93503a184ecdd3dfce679c3\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\20ad4e811985b78500b185a1743b5dedf458e2ec\\output\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chip_design.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\drawable\\chip_design.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_layout_4.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\drawable\\design_layout_4.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    }
+]

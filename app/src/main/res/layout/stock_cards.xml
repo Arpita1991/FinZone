@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:elevation="10dp"
+    android:layout_marginTop="2dp"
+    android:layout_marginBottom="5dp"
+    android:layout_marginLeft="10dp"
+    android:paddingBottom="10dp"
+
+    android:background="@drawable/design_layout_9"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:orientation="vertical"
+          android:layout_margin="10dp"
+          android:layout_width="150dp"
+          android:layout_height="wrap_content">
+
+          <LinearLayout
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:background="@color/white"
+              android:elevation="10dp"
+              android:orientation="horizontal">
+
+
+              <LinearLayout
+                  android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:orientation="vertical">
+
+                  <LinearLayout
+                      android:layout_width="match_parent"
+                      android:layout_height="wrap_content"
+                      android:layout_marginBottom="5dp"
+                      android:orientation="vertical"
+                      android:paddingLeft="10dp">
+
+
+                      <TextView
+                          android:id="@+id/stock_quote"
+                          android:layout_width="match_parent"
+                          android:layout_height="wrap_content"
+                          android:layout_marginRight="10dp"
+                          android:gravity="left"
+                          android:text="sYMBOL"
+                          android:textAllCaps="true"
+                          android:textSize="20dp"
+                          android:textStyle="bold" />
+
+                      <TextView
+                          android:id="@+id/stock_title"
+                          android:layout_width="match_parent"
+                          android:layout_height="wrap_content"
+                          android:layout_gravity="right"
+                          android:layout_marginRight="10dp"
+                          android:text="tITLE"
+                          android:textAllCaps="true"
+                          android:textSize="15dp"
+                          android:textStyle="bold" />
+
+
+                  </LinearLayout>
+
+                  <LinearLayout
+                      android:layout_width="match_parent"
+                      android:layout_height="match_parent"
+                      android:orientation="vertical">
+
+                      <LinearLayout
+                          android:layout_width="match_parent"
+                          android:layout_height="wrap_content"
+                          android:orientation="vertical">
+
+                          <TextView
+                              android:id="@+id/stock_price"
+                              android:layout_width="wrap_content"
+                              android:layout_height="match_parent"
+
+                              android:layout_marginLeft="10dp"
+                              android:text="##price##"
+                              android:textAllCaps="true"
+                              android:textSize="20dp"
+                              android:textStyle="bold" />
+
+                          <LinearLayout
+                              android:layout_width="match_parent"
+                              android:layout_height="match_parent">
+
+                              <ImageView
+                                  android:id="@+id/change_image"
+                                  android:layout_width="wrap_content"
+                                  android:layout_height="match_parent"
+                                  android:layout_marginLeft="5dp"
+                                  android:background="@drawable/ic_up_arrow" />
+
+                              <TextView
+                                  android:id="@+id/stock_change"
+                                  android:layout_width="wrap_content"
+                                  android:layout_height="wrap_content"
+                                  android:layout_gravity="right"
+                                  android:layout_marginLeft="10dp"
+                                  android:text="+3.89"
+                                  android:textAllCaps="true"
+
+                                  android:textColor="@color/profit"
+                                  android:textSize="20dp"
+                                  android:textStyle="normal" />
+                          </LinearLayout>
+                          <LinearLayout
+                              android:layout_width="match_parent"
+                              android:layout_height="wrap_content"
+                              android:layout_marginTop="5dp"
+
+                              android:gravity="right"
+                              android:orientation="horizontal">
+                              <com.balysv.materialripple.MaterialRippleLayout
+                                  android:id="@+id/register"
+                                  android:layout_width="wrap_content"
+                                  android:layout_height="wrap_content"
+                                  android:layout_centerHorizontal="true"
+                                  android:layout_marginLeft="50dp"
+                                  android:layout_above="@+id/login"
+                                  app:mrl_rippleOverlay="true"
+                                  app:mrl_rippleColor="#ff0000"
+                                  app:mrl_rippleAlpha="0.1"
+                                  app:mrl_rippleDimension="10dp"
+                                  app:mrl_rippleHover="true"
+                                  app:mrl_rippleRoundedCorners="10dp"
+                                  app:mrl_rippleInAdapter="false"
+                                  app:mrl_rippleDuration="350"
+                                  app:mrl_rippleFadeDuration="75"
+                                  app:mrl_rippleDelayClick="true"
+                                  app:mrl_rippleBackground="#FFFFFF"
+                                  app:mrl_ripplePersistent="true"
+                                  >
+                              <ImageButton
+                                  android:layout_width="wrap_content"
+                                  android:layout_height="wrap_content"
+                                  android:id="@+id/options"
+                                  android:layout_gravity="right"
+                                  android:background="@drawable/ic_more_vert_black_24dp" />
+                              </com.balysv.materialripple.MaterialRippleLayout>
+                          </LinearLayout>
+
+                      </LinearLayout>
+
+
+
+                  </LinearLayout>
+              </LinearLayout>
+          </LinearLayout>
+
+
+      </LinearLayout>
+
+
+    -->
+
+    <!-- <LinearLayout
+
+         android:orientation="vertical"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content">
+         <LinearLayout
+             android:orientation="horizontal"
+             android:layout_width="match_parent"
+
+             android:layout_height="wrap_content">
+             <ImageButton
+                 android:layout_width="25dp"
+                 android:background="@drawable/ic_price"
+                 android:layout_height="30dp" />
+             <TextView
+                 android:text="##price##"
+                 android:id="@+id/stock_price"
+                 android:textAllCaps="true"
+                 android:textColor="#FD8469"
+                 android:textSize="30dp"
+                 android:gravity="center"
+                 android:textStyle="bold"
+                 android:layout_marginLeft="10dp"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content" />
+                 <TextView
+                     android:text="sYMBOL"
+                     android:textAllCaps="true"
+                     android:textColor="@color/greenColor"
+                     android:textSize="30dp"
+                     android:textStyle="normal"
+                     android:layout_marginRight="10dp"
+                     android:gravity="right"
+                     android:id="@+id/stock_quote"
+                     android:layout_width="match_parent"
+                     android:layout_height="wrap_content" />
+
+
+         </LinearLayout>
+         <LinearLayout
+             android:orientation="horizontal"
+             android:layout_width="match_parent"
+             android:layout_marginBottom="5dp"
+             android:layout_height="wrap_content">
+
+
+
+
+         </LinearLayout>
+         <RelativeLayout
+             android:orientation="horizontal"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent">
+             <LinearLayout
+                 android:paddingTop="15dp"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content">
+                 <ImageView
+                     android:id="@+id/change_image"
+                     android:layout_width="wrap_content"
+                     android:layout_height="match_parent"
+                     android:background="@drawable/ic_up_arrow"/>
+
+                 <TextView
+                     android:text="+3.89"
+                     android:id="@+id/stock_change"
+                     android:textAllCaps="true"
+                     android:textColor="@color/profit"
+                     android:textSize="20dp"
+                     android:textStyle="normal"
+                     android:layout_marginLeft="10dp"
+
+                     android:layout_gravity="right"
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content" />
+             </LinearLayout>
+
+             <RelativeLayout
+                 android:orientation="horizontal"
+                 android:layout_width="match_parent"
+                 android:layout_height="wrap_content">
+
+                 <Button
+                     android:text="BUY"
+                     android:id="@+id/stock_buy"
+                     android:background="@drawable/button_design_4"
+                     android:layout_marginTop="5dp"
+                     android:textColor="@color/white"
+                     android:textStyle="bold"
+
+                     android:layout_marginRight="5dp"
+                     android:layout_toLeftOf="@+id/stock_sell"
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content" />
+
+                 <Button
+                     android:text="SELL"
+                     android:layout_gravity="right"
+                     android:background="@drawable/button_design_4"
+                     android:layout_marginTop="5dp"
+                     android:textColor="@color/white"
+                     android:textStyle="bold"
+                     android:id="@+id/stock_sell"
+                     android:layout_width="wrap_content"
+                     android:layout_alignParentRight="true"
+                     android:layout_height="wrap_content" />
+             </RelativeLayout>
+
+         </RelativeLayout>
+        <Button
+             android:text="DETAILS"
+             android:id="@+id/stock_details"
+             android:background="@color/homeColor"
+             android:layout_width="match_parent"
+            android:visibility="gone"
+             android:layout_height="wrap_content" />
+
+
+
+     </LinearLayout>
+
+     <TextView
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content" />-->
+</LinearLayout>

@@ -1,0 +1,866 @@
+[
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_profile.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\news_cardlist.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\layout\\news_cardlist.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_search_adapter.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\layout\\custom_search_adapter.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\bb67542420007a563280cc4db2ed87537c449f90\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_portfolio.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\layout\\fragment_portfolio.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\e194de8d124effb4f5f0af12c342415582f430a3\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\bb67542420007a563280cc4db2ed87537c449f90\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\e194de8d124effb4f5f0af12c342415582f430a3\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\20ad4e811985b78500b185a1743b5dedf458e2ec\\output\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\cfdc126650dd956d5e203ac1d957c26bb2d9a3c4\\output\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_large.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\cfdc126650dd956d5e203ac1d957c26bb2d9a3c4\\output\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\bb67542420007a563280cc4db2ed87537c449f90\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\stock_history_list.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\layout\\stock_history_list.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_sell.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\layout\\app_sell.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_round.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\cfdc126650dd956d5e203ac1d957c26bb2d9a3c4\\output\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\cfdc126650dd956d5e203ac1d957c26bb2d9a3c4\\output\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\stock_cards.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\layout\\stock_cards.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_round.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\20ad4e811985b78500b185a1743b5dedf458e2ec\\output\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_history.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\layout\\fragment_history.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\bb67542420007a563280cc4db2ed87537c449f90\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_home.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\layout\\nav_header_home.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_stock_pager.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\layout\\fragment_stock_pager.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_history.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\layout\\fragment_history.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\bb67542420007a563280cc4db2ed87537c449f90\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bank.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\layout\\fragment_bank.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_search_adapter.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\layout\\custom_search_adapter.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_smart_device_dialog_fragment.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\20ad4e811985b78500b185a1743b5dedf458e2ec\\output\\res\\layout\\com_facebook_smart_device_dialog_fragment.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\cfdc126650dd956d5e203ac1d957c26bb2d9a3c4\\output\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_commodity_pager.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\layout\\fragment_commodity_pager.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_buy.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\layout\\app_buy.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_friend_list.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\layout\\my_friend_list.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_buy.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\layout\\app_buy.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_details.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\layout\\fragment_details.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\commodity_header.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\layout\\commodity_header.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\e194de8d124effb4f5f0af12c342415582f430a3\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\stock_cards.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\layout\\stock_cards.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\e194de8d124effb4f5f0af12c342415582f430a3\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_device_auth_dialog_fragment.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\cfdc126650dd956d5e203ac1d957c26bb2d9a3c4\\output\\res\\layout\\com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_custom_searchview.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\layout\\my_custom_searchview.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\cfdc126650dd956d5e203ac1d957c26bb2d9a3c4\\output\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_forex_pager.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\layout\\fragment_forex_pager.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\bb67542420007a563280cc4db2ed87537c449f90\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_home.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\layout\\content_home.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_home.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\layout\\app_bar_home.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\commodity_card.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\layout\\commodity_card.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bank.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\layout\\fragment_bank.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_view.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\layout\\chat_view.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\stock_page_design.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\layout\\stock_page_design.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\bb67542420007a563280cc4db2ed87537c449f90\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\e194de8d124effb4f5f0af12c342415582f430a3\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\20ad4e811985b78500b185a1743b5dedf458e2ec\\output\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_home.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\layout\\nav_header_home.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\bb67542420007a563280cc4db2ed87537c449f90\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_stock_detail.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\layout\\activity_stock_detail.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\e194de8d124effb4f5f0af12c342415582f430a3\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loan_cards.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\layout\\loan_cards.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_details.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\layout\\fragment_details.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\stock_history_list.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\layout\\stock_history_list.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_friend_profile.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\layout\\activity_friend_profile.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_search_friend.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\layout\\fragment_search_friend.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loan_cards.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\layout\\loan_cards.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\transermoneylog_history_list.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\layout\\transermoneylog_history_list.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\e194de8d124effb4f5f0af12c342415582f430a3\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notify_friends.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\layout\\notify_friends.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\forex_cards.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\layout\\forex_cards.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\stock_page_design.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\layout\\stock_page_design.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\cfdc126650dd956d5e203ac1d957c26bb2d9a3c4\\output\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign_in.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\20ad4e811985b78500b185a1743b5dedf458e2ec\\output\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_smart_device_dialog_fragment.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\cfdc126650dd956d5e203ac1d957c26bb2d9a3c4\\output\\res\\layout\\com_facebook_smart_device_dialog_fragment.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\translog_history_list.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\layout\\translog_history_list.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_friend_list.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\layout\\my_friend_list.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_view.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\layout\\chat_view.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_forex_pager.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\layout\\fragment_forex_pager.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\bb67542420007a563280cc4db2ed87537c449f90\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\e194de8d124effb4f5f0af12c342415582f430a3\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\commodity_header.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\layout\\commodity_header.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_friend_list.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\layout\\fragment_friend_list.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\bb67542420007a563280cc4db2ed87537c449f90\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\friend_search.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\layout\\friend_search.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notify_friends.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\layout\\notify_friends.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\forex_cards.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\layout\\forex_cards.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_profile.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_stock_detail.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\layout\\activity_stock_detail.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_large.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\20ad4e811985b78500b185a1743b5dedf458e2ec\\output\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_large.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\cfdc126650dd956d5e203ac1d957c26bb2d9a3c4\\output\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\cfdc126650dd956d5e203ac1d957c26bb2d9a3c4\\output\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_custom_searchview.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\layout\\my_custom_searchview.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign_in.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_home.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\layout\\content_home.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_commodity_pager.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\layout\\fragment_commodity_pager.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\20ad4e811985b78500b185a1743b5dedf458e2ec\\output\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\e194de8d124effb4f5f0af12c342415582f430a3\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_news_pager.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\layout\\fragment_news_pager.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_device_auth_dialog_fragment.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\20ad4e811985b78500b185a1743b5dedf458e2ec\\output\\res\\layout\\com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\translog_history_list.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\layout\\translog_history_list.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_stock_pager.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\layout\\fragment_stock_pager.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\paymentlog_history_list.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\layout\\paymentlog_history_list.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_sell.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\layout\\app_sell.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_portfolio.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\layout\\fragment_portfolio.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\friend_search.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\layout\\friend_search.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_friend_list.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\layout\\fragment_friend_list.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\e194de8d124effb4f5f0af12c342415582f430a3\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\bb67542420007a563280cc4db2ed87537c449f90\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\e194de8d124effb4f5f0af12c342415582f430a3\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\e194de8d124effb4f5f0af12c342415582f430a3\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\20ad4e811985b78500b185a1743b5dedf458e2ec\\output\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_search_friend.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\layout\\fragment_search_friend.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\news_cardlist.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\layout\\news_cardlist.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_large.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\20ad4e811985b78500b185a1743b5dedf458e2ec\\output\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_friend_profile.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\layout\\activity_friend_profile.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_home.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\layout\\app_bar_home.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_news_pager.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\layout\\fragment_news_pager.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\e194de8d124effb4f5f0af12c342415582f430a3\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\d6b61adda740c777ea71cf79626f98e12ec6ad3a\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\commodity_card.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\layout\\commodity_card.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\bb67542420007a563280cc4db2ed87537c449f90\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\6d33af0b8e4217b1059a929c52cf7d1fa6717e7e\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\bb67542420007a563280cc4db2ed87537c449f90\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "C:\\Users\\Apatel9273\\.android\\build-cache\\20ad4e811985b78500b185a1743b5dedf458e2ec\\output\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    }
+]

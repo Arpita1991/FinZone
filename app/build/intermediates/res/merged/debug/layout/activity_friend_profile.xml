@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/white"
+    android:layout_height="fill_parent">
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_friend_profile"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:scrollbars="vertical"
+    android:background="@color/white"
+    tools:context="nox.finzone.FriendProfileActivity">
+
+
+
+    <LinearLayout
+        android:id="@+id/linear_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:id="@+id/rel_lay"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/purple">
+
+            <TextView
+                android:id="@+id/name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:text="Name"
+                android:textAllCaps="true"
+                android:textColor="@color/white"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentStart="true" />
+
+            <Views.RoundCircleView
+                android:id="@+id/profileimage"
+                android:layout_width="200dp"
+
+                android:layout_height="200dp"
+                android:layout_gravity="center"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true" />
+
+
+            <ImageView
+                android:id="@+id/badgeimage"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:layout_alignEnd="@+id/profileimage"
+                android:layout_alignParentBottom="true"
+                android:src="@drawable/ic_badge" />
+
+
+        </RelativeLayout>
+
+        <LinearLayout
+    android:layout_gravity="center_horizontal"
+     android:orientation="horizontal"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:backgroundTint="@color/buttonGreen"
+        android:background="@drawable/ic_cake_black_24dp" />
+
+    <TextView
+        android:id="@+id/dob"
+        android:paddingLeft="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center_horizontal"
+        android:text="Dob"
+        android:textColor="@color/white"
+        android:textSize="18dp"
+        android:textStyle="bold" />
+</LinearLayout>
+
+
+        <TextView
+            android:id="@+id/experience"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="left"
+            android:text="XP Level: +460"
+            android:layout_gravity="center_horizontal"
+            android:paddingLeft="10dp"
+            android:textColor="@color/buttonGreen"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+
+
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="382dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:padding="5dp"
+            android:text="About Me"
+            android:textColor="@color/cardview_dark_background"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/bio"
+            android:text="No description "
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:padding="5dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dp"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <RelativeLayout
+
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/design_layout_6"
+                android:orientation="vertical"
+               >
+
+                <ImageView
+                    android:id="@+id/add_friend"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_centerInParent="true"
+                    android:layout_marginTop="10dp"
+                    android:text="Add Friend"
+                    android:textAllCaps="true"
+                    android:backgroundTint="@color/buttonLightBlue"
+                    android:background="@drawable/ic_person_add_black_24dp"
+                    android:textColor="@color/buttonBlue"
+                    android:textSize="20dp"
+                    android:textStyle="bold" />
+
+
+            </RelativeLayout>
+            <TextView
+                android:id="@+id/addfrd"
+                android:text="Add friend"
+                android:textStyle="bold"
+                android:textColor="@color/buttonLightBlue"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center_horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_marginLeft="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <RelativeLayout
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/design_layout_7"
+                android:orientation="vertical"
+                android:weightSum="1">
+
+                <ImageView
+                    android:id="@+id/transfer_money"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_centerInParent="true"
+                    android:layout_marginTop="10dp"
+                    android:text="Add Friend"
+                    android:textAllCaps="true"
+                    android:backgroundTint="@color/buttonGreen"
+                    android:background="@drawable/ic_noun_3050_cc"
+
+                    android:textColor="@color/buttonBlue"
+                    android:textSize="20dp"
+                    android:textStyle="bold" />
+
+
+            </RelativeLayout>
+            <TextView
+                android:text="Transfer Money"
+                android:textStyle="bold"
+                android:textColor="@color/buttonGreen"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center_horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+</LinearLayout>
+
+    </LinearLayout>
+
+
+</ScrollView>

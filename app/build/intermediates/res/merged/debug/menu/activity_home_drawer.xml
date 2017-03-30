@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+    <group android:id="@+id/grp1" android:checkableBehavior="single" >
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home"
+            android:icon="@drawable/home_icon"
+            />
+        </group>
+    <group android:checkableBehavior="single" android:id="@+id/grp2">
+        <item
+            android:id="@+id/nav_bank"
+            android:icon="@drawable/ic_account_balance_24dp"
+            android:title="Bank" />
+    </group>
+
+    <group android:checkableBehavior="single" android:id="@+id/grp3">
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_account_circle_24dp"
+            android:title="Profile" />
+    </group>
+    <group android:checkableBehavior="single" android:id="@+id/grp4">
+        <item
+            android:id="@+id/nav_portfolio"
+            android:icon="@drawable/ic_work_24dp"
+            android:title="Portfolio" />
+    </group>
+    <group android:checkableBehavior="single" android:id="@+id/grp5">
+        <item
+            android:id="@+id/nav_history"
+            android:icon="@drawable/ic_restore_24dp"
+            android:title="History" />
+    </group>
+    <group android:checkableBehavior="single" android:id="@+id/grp6">
+        <item
+            android:id="@+id/nav_frdList"
+            android:icon="@drawable/ic_group_24dp"
+            android:title="Friend List" />
+    </group>
+    <group android:checkableBehavior="single" android:id="@+id/grp7">
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_input_24dp"
+            android:title="Logout" />
+    </group>
+    </group>
+
+
+</menu>

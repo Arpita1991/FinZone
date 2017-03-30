@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FINZONE</string>
+    <string name="facebook_app_id">1796539590608610</string>
+    <string name="account_create">Do not have an account?</string>
+    <string name="title_activity_homepage">Homepage</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_bank">BankActivity</string>
+    <string name="title_activity_history">HistoryActivity</string>
+    <string name="title_activity_frd_list">FrdListActivity</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_portfolio">PortfolioActivity</string>
+    <string name="title_activity_market_list">MarketListActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

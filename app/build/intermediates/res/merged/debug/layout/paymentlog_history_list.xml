@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="@drawable/card_layout_6"
+    android:layout_marginBottom="8dp"
+    android:layout_height="wrap_content">
+
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_height="25dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="8dp"
+            android:weightSum="1">
+
+        <TextView
+            android:gravity="center"
+            android:textColor="@color/LightGray"
+            android:id="@+id/paidDate"
+            android:layout_weight="0.26"
+            android:text="02-02-2017"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:gravity="center"
+            android:textColor="@color/LightGray"
+            android:id="@+id/loanDate"
+            android:layout_weight="0.26"
+            android:text="02-02-2017"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:gravity="center"
+            android:textColor="@color/LightGray"
+            android:id="@+id/expirationDate"
+            android:layout_weight="0.26"
+            android:text="02-02-2017"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:gravity="center"
+            android:textColor="@color/LightGray"
+            android:id="@+id/amount"
+            android:layout_weight="0.20"
+            android:text="$5000"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_chat"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="nox.finzone.ChatActivity">
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/inputtext"
+        android:id="@+id/msg_list"
+        android:scrollbars="vertical"
+     />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:id="@+id/inputtext"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+    <EditText
+        android:layout_width="310dp"
+        android:id="@+id/textmsg"
+        android:layout_height="match_parent"
+        />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:id="@+id/sendmsg"
+            android:background="@drawable/ic_send_black_24dp"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+</RelativeLayout>

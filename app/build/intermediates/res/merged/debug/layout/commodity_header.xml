@@ -1,0 +1,83 @@
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="nox.finzone.Fragments.CommodityPager">
+
+
+    <RelativeLayout
+        android:id="@+id/rel_lay"
+        android:layout_width="match_parent"
+        android:layout_height="90dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/head"
+            android:textSize="30dp"
+            android:text="Metal"/>
+
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:id="@+id/linear_layout"
+        app:layout_anchor="@id/rel_lay"
+        app:layout_anchorGravity="bottom">
+
+
+        <android.support.design.widget.FloatingActionButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="8dp"
+            android:backgroundTint="#D24958"
+            android:src="@drawable/ic_oil"
+            android:background="#D24958"
+            app:borderWidth="0dp"
+            android:id="@+id/float_energy"
+            />
+        <android.support.design.widget.FloatingActionButton
+            android:layout_width="match_parent"
+            android:layout_marginRight="8dp"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/purple"
+            android:src="@drawable/ic_gold_ingots"
+
+            android:background="#C4C4C9"
+            app:borderWidth="0dp"
+            android:id="@+id/float_metal"/>
+
+        <android.support.design.widget.FloatingActionButton
+            android:layout_width="match_parent"
+            android:layout_marginRight="8dp"
+            android:backgroundTint="@color/buttonBlue"
+            android:background="@color/cardview_dark_background"
+
+            android:src="@drawable/ic_grain"
+            app:borderWidth="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/float_agri"
+        />
+        <android.support.design.widget.FloatingActionButton
+            android:layout_width="match_parent"
+            android:layout_marginRight="8dp"
+            android:backgroundTint="@color/lightYellow"
+            android:background="@color/cardview_dark_background"
+            app:borderWidth="0dp"
+            android:src="@drawable/ic_chicken"
+            android:layout_height="wrap_content"
+            android:id="@+id/float_livestock"
+            />
+        <android.support.design.widget.FloatingActionButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/buttonGreen"
+            android:src="@drawable/ic_coffee"
+            app:borderWidth="0dp"
+            android:id="@+id/float_consumer"/>
+
+    </LinearLayout>
+
+    </android.support.design.widget.CoordinatorLayout>

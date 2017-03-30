@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "726882414269",
+    "project_id": "finzone-156218"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726882414269:android:802594b5ef50e2f7",
+        "android_client_info": {
+          "package_name": "com.example.apatel9273.finzone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726882414269-mo8qfm9kacirr7m3sbas8copiratv8lf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.apatel9273.finzone",
+            "certificate_hash": "78A2491E29EBF83DE99EB5D816E2099CF6CEEDA8"
+          }
+        },
+        {
+          "client_id": "726882414269-5bh06nfhkov0thnspocek46ltultasnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU8Nhirwt0C-CutnYoYhMN-z8XEKYzh54"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726882414269:android:f41908b03d29da23",
+        "android_client_info": {
+          "package_name": "nox.finzone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726882414269-phv21fmg5hdsthm2h3sh5at6llfqtre9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nox.finzone",
+            "certificate_hash": "A980AF15BE5BC74EB84FDCAE8377BA23336A69A7"
+          }
+        },
+        {
+          "client_id": "726882414269-5bh06nfhkov0thnspocek46ltultasnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU8Nhirwt0C-CutnYoYhMN-z8XEKYzh54"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

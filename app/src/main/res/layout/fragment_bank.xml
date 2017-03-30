@@ -1,0 +1,227 @@
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="nox.finzone.Fragments.BankFragment">
+
+
+
+    <LinearLayout
+        android:id="@+id/loan"
+        android:layout_width="match_parent"
+
+        android:layout_height="match_parent"
+
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/linear_above"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/homeColor"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Bank"
+                android:textColor="@color/white"
+                android:textSize="30dp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:background="@drawable/ic_account_balance_24dp"
+                android:backgroundTint="@color/white" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/lin_below"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:visibility="gone">
+
+            <LinearLayout
+                android:id="@+id/linear_below"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:visibility="gone">
+
+                <ImageView
+
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_gravity="center"
+                    android:background="@drawable/ic_history_black_24dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="No loans pending"
+                    android:textColor="@color/homeColor" />
+
+            </LinearLayout>
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/loan_history"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fadeScrollbars="false"
+                android:scrollbars="vertical">
+
+
+            </android.support.v7.widget.RecyclerView>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/form_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:orientation="vertical"
+            android:padding="20dp"
+            android:visibility="visible">
+
+            <TextView
+                android:id="@+id/bank_amount"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Bank Amount :"
+                android:textColor="@color/homeColor"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/interest_rate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:text="Interest : 9% "
+                android:textAllCaps="true"
+                android:textColor="@color/homeColor"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <LinearLayout
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+
+                <TextView
+                    android:id="@+id/textView2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:text="Time Period:"
+                    android:textAllCaps="true"
+                    android:textColor="@color/homeColor"
+                    android:textSize="20dp"
+                    android:textStyle="bold" />
+
+                <Spinner
+
+                    android:id="@+id/time_spinner"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+
+                    android:backgroundTint="@color/cardview_dark_background" />
+            </LinearLayout>
+
+            <!--ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/ic_loan"
+                    android:textColor="@color/redColor"
+                    android:layout_gravity="center_horizontal"/>-->
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:orientation="horizontal">
+
+
+                <TextView
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="15dp"
+                    android:gravity="center"
+                    android:inputType="numberDecimal"
+                    android:text="Amount : "
+                    android:textAlignment="gravity"
+                    android:textAllCaps="true"
+                    android:textColor="@color/homeColor"
+                    android:textSize="20dp"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/amount"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:backgroundTint="@android:color/holo_red_dark"
+                    android:hint="1000"
+                    android:padding="10dp"
+                    android:paddingLeft="2dp"
+                    android:textColorHint="@color/com_facebook_button_background_color_disabled" />
+            </LinearLayout>
+
+
+            <Button
+                android:id="@+id/form_getloan_button"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:background="@color/DarkGreen"
+                android:elevation="20dp"
+                android:fadingEdgeLength="2dp"
+                android:text="Take Loan"
+
+                android:textColor="@color/com_facebook_button_background_color_focused"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+    <LinearLayout
+        app:layout_anchor="@+id/linear_above"
+        app:layout_anchorGravity="bottom"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:gravity="right"
+        android:layout_height="wrap_content">
+        <TextView
+            android:text="Get loan"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:layout_marginRight="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/floatingActionButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginRight="20dp"
+            app:backgroundTint="@color/DarkGreen"
+            android:elevation="20dp"
+            android:src="@drawable/ic_add_black_24dp"
+            android:tint="@color/white" />
+    </LinearLayout>
+
+
+</android.support.design.widget.CoordinatorLayout>

@@ -1,0 +1,43 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/homeColor"
+    android:alpha="1"
+    tools:context="nox.finzone.Fragments.FriendListFragment">
+
+    <ListView
+
+        android:id="@+id/my_friends_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="0dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"
+        android:layout_marginTop="2dp"></ListView>
+<LinearLayout
+    android:orientation="vertical"
+    android:id="@+id/nofrd_id"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:visibility="gone"
+
+    >
+    <ImageView
+        android:background="@drawable/ic_nofriend"
+        android:backgroundTint="@color/LightGray"
+        android:layout_gravity="center"
+        android:tint="@color/LightGray"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:text="No Friends"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:textColor="@color/LightGray"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</LinearLayout>
+
+</RelativeLayout>

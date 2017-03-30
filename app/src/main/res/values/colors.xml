@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBlack">#000000</color>
+    <color name="homeColor">#252338</color>
+    <color name="homeColor2">#313b49</color>
+    <color name="homeColor3">#b4313b49</color>
+    <color name="redColor">#ea0a20</color>
+    <color name="greenColor">#3fa769</color>
+    <color name="lightgreenColor">#4685bc</color>
+    <color name="grey">#f9f5f5</color>
+    <color name="white">#ffffff</color>
+    <color name="colorBlue">#e51c2ed6</color>
+    <color name="colorPink">#e5e10c6c</color>
+    <color name="buttonGreen">#63ccb5</color>
+    <color name="buttonLightGreen">#dc49a18e</color>
+    <color name="buttonBlue">#52C1FF</color>
+    <color name="buttonLightBlue">#a5328cbe</color>
+    <color name="buttonLightAccent">#e0ec2665</color>
+    <color name="DarckcomposedGreen">#3B434D</color>
+    <color name="Cylindrical">#525C66</color>
+    <color name="DarkGreen">#688470</color>
+    <color name="LightGray">#D0DDE3</color>
+    <color name="profit">#2e9c09</color>
+    <color name="loss">#da141e</color>
+    <color name="purple">#8057e6</color>
+    <color name="lightYellow">#f2de35</color>
+    <color name="forexGreen">#a2179f08</color>
+    <color name="forexRed">#a3d13639</color>
+    <color name="profileColor">#d4685b</color>
+
+</resources>

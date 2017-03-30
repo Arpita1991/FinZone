@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/lable"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:text="Number of shares"/>
+
+
+    <EditText
+        android:layout_width="150dp"
+        android:textAlignment="center"
+        android:layout_height="wrap_content"
+        android:hint="100"
+        android:layout_gravity="center"
+        android:ems="10"
+        android:id="@+id/quantity"
+        />
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_marginRight="40dp"
+    >
+
+    <Button
+        android:text="sell"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/sellbtn"
+        android:background="@color/colorAccent"
+        android:textColor="@color/com_facebook_button_background_color_focused"
+        android:textStyle="bold"
+        android:layout_marginBottom="20dp"
+        android:layout_alignParentTop="true"
+        android:layout_toStartOf="@+id/cancelbtn"
+        />
+
+    <Button
+        android:text="Cancel"
+        android:layout_marginLeft="20dp"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:background="@color/colorAccent"
+        android:layout_marginBottom="20dp"
+        android:textColor="@color/com_facebook_button_background_color_focused"
+        android:textStyle="bold"
+        android:id="@+id/cancelbtn"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true" />
+
+
+</RelativeLayout>
+</LinearLayout>

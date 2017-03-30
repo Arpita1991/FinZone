@@ -1,0 +1,214 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/homeColor"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    tools:context="nox.finzone.Fragments.HistoryFragment">
+
+    <TabHost
+        android:id="@+id/tabhost_history"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TabWidget
+                android:id="@android:id/tabs"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <FrameLayout
+                android:id="@android:id/tabcontent"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:id="@+id/trans_log"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:orientation="horizontal"
+                        android:layout_height="wrap_content">
+                        <TextView
+                            android:paddingLeft="15dp"
+                            android:gravity="center_vertical"
+                            android:textColor="@color/LightGray"
+                            android:layout_weight="0.10"
+                            android:text="Symbol"
+                            android:lines="2"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent" />
+
+                        <TextView
+                            android:gravity="center_vertical"
+                            android:paddingLeft="15dp"
+                            android:textColor="@color/LightGray"
+                            android:layout_weight="0.10"
+                            android:text="Type"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent" />
+
+                        <TextView
+                            android:gravity="center_vertical"
+                            android:textColor="@color/LightGray"
+                            android:layout_weight="0.10"
+                            android:text="Domain"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent" />
+
+
+                        <TextView
+                            android:paddingLeft="15dp"
+                            android:gravity="center_vertical"
+                            android:textColor="@color/LightGray"
+                            android:layout_weight="0.10"
+                            android:text="Date"
+                            android:lines="2"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent" />
+
+
+                        <TextView
+                            android:gravity="center_vertical"
+                            android:textColor="@color/LightGray"
+                            android:layout_weight="0.10"
+                            android:text="Quantity"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent" />
+
+                        <TextView
+                            android:gravity="center_vertical"
+
+                            android:textColor="@color/LightGray"
+                            android:layout_weight="0.10"
+                            android:text="Price"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent" />
+
+                    </LinearLayout>
+
+
+                    <android.support.v7.widget.RecyclerView
+                        android:id="@+id/stock_history"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                    </android.support.v7.widget.RecyclerView>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/Payment_log"
+                    android:layout_margin="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:orientation="horizontal"
+                        android:layout_height="wrap_content">
+                        <TextView
+                            android:gravity="center"
+                            android:textColor="@color/LightGray"
+                            android:layout_weight="0.33"
+                            android:text="Paid Date"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent" />
+
+                        <TextView
+                            android:gravity="center"
+                            android:textColor="@color/LightGray"
+                            android:layout_weight="0.33"
+                            android:text="Loan Date"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent" />
+
+                        <TextView
+                            android:gravity="center"
+                            android:textColor="@color/LightGray"
+                            android:layout_weight="0.35"
+                            android:text="Maturity Date"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent" />
+
+                        <TextView
+                            android:gravity="center_horizontal"
+                            android:textColor="@color/LightGray"
+                            android:layout_weight="0.35"
+                            android:text="Amount"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent" />
+                    </LinearLayout>
+
+
+                    <android.support.v7.widget.RecyclerView
+                        android:id="@+id/payment_history"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                    </android.support.v7.widget.RecyclerView>
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_gravity="center"
+                    android:id="@+id/transfer_money_log"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+                        <TextView
+                            android:gravity="left"
+                            android:textColor="@color/LightGray"
+                            android:layout_weight="0.33"
+                            android:layout_marginLeft="30dp"
+                            android:text="Date"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent" />
+
+                        <TextView
+                            android:gravity="center"
+                            android:textColor="@color/LightGray"
+                            android:layout_weight="0.33"
+                            android:text="Transfer To"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent" />
+
+                        <TextView
+                            android:gravity="center"
+                            android:textColor="@color/LightGray"
+                            android:layout_weight="0.33"
+                            android:text="Amount"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent" />
+
+                    </LinearLayout>
+                    <android.support.v7.widget.RecyclerView
+
+                        android:id="@+id/transfer_money_history"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                    </android.support.v7.widget.RecyclerView>
+
+                </LinearLayout>
+            </FrameLayout>
+        </LinearLayout>
+    </TabHost>
+
+
+</FrameLayout>

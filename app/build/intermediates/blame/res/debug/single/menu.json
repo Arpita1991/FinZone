@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_homepage.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\menu\\menu_homepage.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_home_drawer.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\menu\\activity_home_drawer.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main2_drawer.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\menu\\activity_main2_drawer.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main2.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\menu\\main2.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\home.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\menu\\home.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_homepage.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\menu\\menu_homepage.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\home.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\menu\\home.xml"
+    },
+    {
+        "merged": "G:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_home_drawer.xml",
+        "source": "G:\\FinZone-master\\FinZone-master\\app\\src\\main\\res\\menu\\activity_home_drawer.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main2.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\menu\\main2.xml"
+    },
+    {
+        "merged": "G:\\project\\FinZone-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main2_drawer.xml",
+        "source": "G:\\project\\FinZone-master\\app\\src\\main\\res\\menu\\activity_main2_drawer.xml"
+    }
+]

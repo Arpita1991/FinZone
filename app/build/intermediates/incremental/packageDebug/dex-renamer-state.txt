@@ -1,0 +1,7 @@
+#Mon Mar 20 10:55:54 EDT 2017
+base.0=G\:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e66158cabc232c303c0b72323c43f312416315cb
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=G\:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9f4c6e3d7dc7d34cdeffffde6fd43da82579f774\\classes.dex
+base.1=G\:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9f4c6e3d7dc7d34cdeffffde6fd43da82579f774
+file.0=G\:\\FinZone-master\\FinZone-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e66158cabc232c303c0b72323c43f312416315cb\\classes.dex
